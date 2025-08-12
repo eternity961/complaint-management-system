@@ -1,0 +1,15 @@
+export { default as Home } from "./Home";
+export { default as Dashboard } from "./Dashboard";
+export { default as ComplaintManagment } from "./ComplaintManagment";
+export { default as Reports } from "./Reports";
+export { default as Unauthorized } from "./Unauthorized";
+export { default as SupervisorLayout } from "./SupervisorLayout";
+export { default as SupervisorDashboard } from "./SupervisorDashboard";
+export { default as Settings } from "./Settings";
+export { default as ManageUser } from "./ManageUser";
+export { default as ManageComplaints } from "./ManageComplaints";
+export { default as ManagerLayout } from "./ManagerLayout";
+export { default as ManagerDashboard } from "./ManagerDashboard";
+export { default as DistributiveDashboard } from "./DistributiveDashboard";
+export { default as DistributiveLayout } from "./DistributiveLayout";
+export { default as ProtectedRoute } from "../components/ProtectedRoute";
